@@ -44,4 +44,4 @@ Understand the difference between localization, standardization, and segmentatio
 
 - Project: [Combining Predictive Techniques](https://github.com/eleninistikaki/Business-Analytics-Nanodegree/blob/master/Combining%20Predictive%20Techniques.pdf)
 
-![Udacity Business Analyst Nanodegree]()
+![Udacity Business Analyst Nanodegree](https://github.com/eleninistikaki/Business-Analytics-Nanodegree/blob/master/0aa6ece3-b4c3-4977-b078-d738bc85df60.svg)
