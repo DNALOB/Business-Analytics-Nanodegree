@@ -2,7 +2,7 @@
 
 ## About
 
-This repository contains the projects I completed, to earn the Prdeictive Analytics Nanodegree (previously called "Business Analytics Nanodegree"). 
+This repository contains the projects I completed, to earn the Predictive Analytics Nanodegree (previously called "Business Analytics Nanodegree"). 
 
 You can check my Nanodegree [here](https://confirm.udacity.com/NRQT5M5J).
 And [here](https://www.udacity.com/course/predictive-analytics-for-business-nanodegree--nd008) is Udacity's page about the Nanodegree.
