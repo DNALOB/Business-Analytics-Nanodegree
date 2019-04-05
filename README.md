@@ -1,14 +1,15 @@
-# Data Foundations Nanodegree Projects
+# Business Analytics Nanodegree Projects
 
 ## About
 
-This repository contains the projects I completed, to earn the Business Analyst Nanodegree (previously called "Data Foundations Nanodegree"). 
+This repository contains the projects I completed, to earn the Prdeictive Analytics Nanodegree (previously called "Business Analytics Nanodegree"). 
 
-You can check my Nanodegree [here](https://graduation.udacity.com/nd100-ent).
-And [here](https://www.udacity.com/course/business-analytics-nanodegree--nd098) is Udacity's page about the Nanodegree.
+You can check my Nanodegree [here](https://confirm.udacity.com/NRQT5M5J).
+And [here](https://www.udacity.com/course/predictive-analytics-for-business-nanodegree--nd008) is Udacity's page about the Nanodegree.
 
-### Part 1: Welcome to the Program
+### Part 1: Problem Solving with Analytics
 
+- Project: [Predicting Diamond Prices](https://github.com/eleninistikaki/Data-Foundations-Nanodegree/blob/master/Interpret%20a%20Data%20Visualization.pdf)
 - Project: [Interpret a Data Visualization](https://github.com/eleninistikaki/Data-Foundations-Nanodegree/blob/master/Interpret%20a%20Data%20Visualization.pdf)
 
 ### Part 2: [Intro to Data](https://www.udacity.com/course/intro-to-descriptive-statistics--ud827)
